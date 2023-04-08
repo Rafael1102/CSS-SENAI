@@ -1,0 +1,13 @@
+@font-face{
+    font-family:RousseauDeco;
+    src: url('Fonte/RousseauDeco/RousseauDeco.ttf');    
+}
+
+body{
+    font-family:RousseauDeco;
+}
+#titulo {
+    font-size: 30px; 
+    text-align: center;
+  }
+  
